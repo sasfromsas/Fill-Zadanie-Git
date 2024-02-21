@@ -22,9 +22,16 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-
+width: auto;
 }
 
 .CreateButton{
     margin-top: 10px;
+}
+
+.sas{
+    display: flex;
+    align-items: center;
+
+    flex-wrap: nowrap;
 }
